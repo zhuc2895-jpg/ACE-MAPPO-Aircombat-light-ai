@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.acmi
+*.tmp
+*.bak
+_inv/
+*.log
